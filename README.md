@@ -2,21 +2,7 @@
 
 > Nuxt with TypeScript sample
 
-## Build Setup
-
-```bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## References
+- [Nuxt TypeScript](https://typescript.nuxtjs.org/ja/guide/)
+- [Nuxt.js + TypeScript + Vuex で簡単な Todo リストを作る](https://toragramming.com/programming/nuxt-js/nuxt-typescript-vuex-todo-tutorial/)
+- [Nuxt 2.10↑ + TypeScirpt + ESLint + Prettier環境構築](https://toragramming.com/programming/nuxt-js/nuxt-typescript-vscode-env-2019-09/)
